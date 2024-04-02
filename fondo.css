@@ -1,0 +1,87 @@
+body {
+    background-color: #000000;
+    background-image: url('7-Best-Cafeteria-Designs-Cafeteria-Layout-Interior-Décor.jpg');
+    background-repeat: no-repeat; 
+    background-attachment: fixed; 
+    background-position: center; 
+}
+h1 {
+    color: white;
+    
+}
+p {
+    color: white;
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+}
+  
+
+.ima
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+
+.barra-superior {
+    background-color: #000000;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between ;
+    align-items: center;
+    border-radius: 20px 20px 20px 20px;
+}
+
+
+.logo img {
+    width: 100px;
+}
+
+.container{
+    image-resolution: 100px;
+}
+
+.menu ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    color: black;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+.mapa-container {
+    text-align: center;
+    margin: 0 auto; 
+    height: 100vh;
+    margin-top: 50px;
+}
+
+.maps iframe {
+    display: block;
+    margin: 0 auto;
+}
+
+.contenedor {
+    background-color: #000000;
+    margin: 25px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+
+.imagenpa{
+    border-radius: 20px 0px 0px 20px;
+}
