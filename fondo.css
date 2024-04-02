@@ -85,14 +85,4 @@ body {
 .imagenpa{
     border-radius: 20px 0px 0px 20px;
 }
- .producto {
-      float: left;
-      margin: 20px;
-    }
-    .producto img {
-      width: 200px;
-      height: 200px;
-    }
-    .producto .nombre {
-      font-weight: bold;
-    }
+ 
